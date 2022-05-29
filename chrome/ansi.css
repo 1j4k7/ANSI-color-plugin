@@ -1,0 +1,69 @@
+.ForeBlack {
+    color: black;
+}
+.ForeRed {
+    color: red;
+}
+.ForeGreen {
+    color: green;
+}
+.ForeYellow {
+    color: yellow;
+}
+.ForeBlue {
+    color: blue;
+}
+.ForeMagenta {
+    color: magenta;
+}
+.ForeCyan {
+    color: cyan;
+}
+.ForeWhite {
+    color: white;
+}
+
+.ForeReset {
+    color: black;
+}
+
+.BackBlack {
+    background-color: black;
+}
+
+.BackRed {
+    background-color: red;
+}
+
+.BackGreen {
+    background-color: green;
+}
+
+.BackYellow {
+    background-color: yellow;
+}
+
+.BackBlue {
+    background-color: blue;
+}
+
+.BackMagenta {
+    background-color: magenta;
+}
+
+.BackCyan {
+    background-color: cyan;
+}
+
+.BackWhite {
+    background-color: white;
+}
+
+.BackReset {
+    background-color: white;
+}
+
+.ResetAll {
+    color: black;
+    background-color: white;
+}
